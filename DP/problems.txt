@@ -1,0 +1,11 @@
+https://www.spoj.com/problems/NOCHANGE/
+https://codeforces.com/gym/102348/problem/H
+https://codeforces.com/problemset/problem/1398/D //easy
+https://codeforces.com/problemset/problem/1666/J //hard
+https://codeforces.com/problemset/problem/165/E // hard
+https://codeforces.com/problemset/gymProblem/103185/K //with segment tree
+https://atcoder.jp/contests/dp/tasks/dp_t //atcoder permutation
+https://codeforces.com/problemset/problem/1446/B
+https://codeforces.com/problemset/problem/1370/D
+https://codeforces.com/problemset/problem/1132/F //range style
+https://codeforces.com/problemset/problem/1427/C /take another look on the range

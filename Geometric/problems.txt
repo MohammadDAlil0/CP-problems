@@ -1,0 +1,2 @@
+https://codeforces.com/contest/671/problem/A
+http://www.cs.utoronto.ca/~igor/acm/practice2006.09.17/pb.html //DP with geometrice hard
